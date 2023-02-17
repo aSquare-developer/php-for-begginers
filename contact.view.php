@@ -17,9 +17,9 @@
                     <div class="hidden md:block">
                         <div class="ml-10 flex items-baseline space-x-4">
                             <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                            <a href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Home</a>
+                            <a href="/" class="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Home</a>
                             <a href="/about.php" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">About</a>
-                            <a href="/contact.php" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Contact</a>
+                            <a href="/contact.php" class="bg-gray-900 text-white text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Contact</a>
                         </div>
                     </div>
                 </div>
@@ -122,13 +122,13 @@
 
     <header class="bg-white shadow">
         <div class="mx-auto max-w-7xl py-6 px-4 sm:px-6 lg:px-8">
-            <h1 class="text-3xl font-bold tracking-tight text-gray-900">Dashboard</h1>
+            <h1 class="text-3xl font-bold tracking-tight text-gray-900">Contact</h1>
         </div>
     </header>
 
     <main>
         <div class="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
-            <p>Hello. Welcome to the home page.</p>
+            <p>Now you are on the Contact page</p>
         </div>
     </main>
 
