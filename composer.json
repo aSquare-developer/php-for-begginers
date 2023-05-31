@@ -1,0 +1,16 @@
+{
+    "name": "artur/php-for-begginers",
+    "authors": [
+        {
+            "name": "aSquare",
+            "email": "artur.anissimov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
